@@ -1,0 +1,4 @@
+int total = 25
+if total + 5
+else total - 2
+return total * 3 / 1
